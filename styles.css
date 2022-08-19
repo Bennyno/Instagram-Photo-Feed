@@ -1,0 +1,49 @@
+body {
+	background: #BDBDBD;
+	margin: 0;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+header {
+	background: white;
+	padding: 10px
+}
+
+header h1 {
+	margin: 0;
+}
+
+.post {
+	background: white;
+	margin-top: 10px;
+}
+
+.post h2,p {
+	padding:10px;
+	margin: 0;
+}
+
+.container {
+	width: 600px;
+	margin: auto;
+}
+
+ .post-header {
+	display: inline-block;
+	width: 80%;
+}
+
+.date {
+	display: inline-block;
+	width: 20%;
+	padding:10px;
+	text-align:right;
+	color: gray;
+
+}
+
+
+
